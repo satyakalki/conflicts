@@ -15,6 +15,6 @@ public class PrimeExample{
    }      
    if(flag==0)  { System.out.println(n+" is prime number"); }  
   }//end of else  
-}    
+}    //2nd wh practice
 }   //webhook practice session
 skdjbskjcoukajdbckjdchiu
