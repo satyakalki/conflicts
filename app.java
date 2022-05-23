@@ -12,7 +12,7 @@ public class PrimeExample{
      flag=1;      
      break;      
     }      
-   }      
+   }      //3rd thing wh
    if(flag==0)  { System.out.println(n+" is prime number"); }  
   }//end of else  
 }    //2nd wh practice
